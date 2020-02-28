@@ -16,3 +16,4 @@ call code --install-extension thekalinga.bootstrap4-vscode
 call code --install-extension ugross.vscode-react-snippets
 call code --install-extension vscode-icons-team.vscode-icons
 call code --install-extension zignd.html-css-class-completion
+call code --install-extension formulahendry.terminal
